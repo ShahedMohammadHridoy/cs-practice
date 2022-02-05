@@ -1,0 +1,15 @@
+D:\cs-practice\obj\Debug\net6.0\cs-practice.csproj.AssemblyReference.cache
+D:\cs-practice\obj\Debug\net6.0\cs-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs-practice\obj\Debug\net6.0\cs-practice.AssemblyInfoInputs.cache
+D:\cs-practice\obj\Debug\net6.0\cs-practice.AssemblyInfo.cs
+D:\cs-practice\obj\Debug\net6.0\cs-practice.csproj.CoreCompileInputs.cache
+D:\cs-practice\bin\Debug\net6.0\cs-practice.exe
+D:\cs-practice\bin\Debug\net6.0\cs-practice.deps.json
+D:\cs-practice\bin\Debug\net6.0\cs-practice.runtimeconfig.json
+D:\cs-practice\bin\Debug\net6.0\cs-practice.dll
+D:\cs-practice\bin\Debug\net6.0\ref\cs-practice.dll
+D:\cs-practice\bin\Debug\net6.0\cs-practice.pdb
+D:\cs-practice\obj\Debug\net6.0\cs-practice.dll
+D:\cs-practice\obj\Debug\net6.0\ref\cs-practice.dll
+D:\cs-practice\obj\Debug\net6.0\cs-practice.pdb
+D:\cs-practice\obj\Debug\net6.0\cs-practice.genruntimeconfig.cache
